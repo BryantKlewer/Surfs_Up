@@ -13,13 +13,13 @@
 
 * The minimum recorded temperature in the June data was 64 degrees fahrenheit and the maximum was 85. For Decembers data, the minimum temperature recorded was 56 degrees fahrenheit and the maximum was 83. 
 
-![]()
-![]()
+![june_df_desc](https://github.com/BryantKlewer/Surfs_Up/blob/main/screen_shots/june_df_desc.png)
+![dec_df_desc](https://github.com/BryantKlewer/Surfs_Up/blob/main/screen_shots/dec_df_desc.png)
 
 * Overall, the temperature is relatively even between the June and December data sets with the average temperature in June being 74.9 and December being 71.0 degrees fahrenheit.
 
-![]()
-![]()
+![june_hist](https://github.com/BryantKlewer/Surfs_Up/blob/main/screen_shots/june_hist.png)
+![dec_hist](https://github.com/BryantKlewer/Surfs_Up/blob/main/screen_shots/dec_hist.png)
 
 
 ## Summary
