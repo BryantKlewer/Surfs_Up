@@ -7,7 +7,7 @@
 * Data source: hawaii.sqlite
 * Software: Python 3.9.12, Jupyter Notebook 3.1, SQLite 3.39
 
-## Results - list 3 major points from the 2 deliverable
+## Results - list 3 major points from the 2 deliverables
 
 *
 
